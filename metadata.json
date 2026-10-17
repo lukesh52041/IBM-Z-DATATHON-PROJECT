@@ -1,0 +1,6 @@
+{
+  "name": "Real-Time AI for Critical Decisions",
+  "description": "Live decision-support dashboard for mission-critical operations with streaming anomaly detection, prioritized alerts, and actionable recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
